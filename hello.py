@@ -12,3 +12,7 @@ print ("hello, world!)
 2 + +2
 #In python putting two plus signs does the same thing as putting one.
 
+#4
+4 + 02
+#There is a syntax error. Can not write letters like this
+

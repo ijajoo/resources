@@ -16,3 +16,6 @@ print ("hello, world!)
 4 + 02
 #There is a syntax error. Can not write letters like this
 
+#5
+3  4
+#Syntax error

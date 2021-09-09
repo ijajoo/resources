@@ -12,3 +12,11 @@ n = 60
 finalPrice = (price * n ) + shipping1 + (shipping2 * (n - 1))
 print('The price of 60 books is', finalPrice, 'dollars')
 
+#Question 3
+start = 6 * 60 + 52
+mile1 = 8 + (15/60)
+mile3 = 3 * (7 + (12/60))
+total_mile = 2*(mile1) + mile3
+end = start + total_mile
+print('She will be back at around', end/60)
+

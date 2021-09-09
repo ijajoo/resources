@@ -20,3 +20,9 @@ total_mile = 2*(mile1) + mile3
 end = start + total_mile
 print('She will be back at around', end/60)
 
+#Question 4
+average1 = 82
+average2 = 89
+avginc = ((average2 - average1)/average1)*100
+print('The average increase is', '{:.2f}'.format(avginc), '%')
+
